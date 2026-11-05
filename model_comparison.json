@@ -1,0 +1,12 @@
+{
+    "Random Forest": {
+        "accuracy": 0.48179749715585896,
+        "balanced_accuracy": 0.4394961349251109,
+        "macro_f1": 0.4019510853558771
+    },
+    "Gradient Boosting": {
+        "accuracy": 0.45676905574516496,
+        "balanced_accuracy": 0.45847934088145836,
+        "macro_f1": 0.4030108117147938
+    }
+}
